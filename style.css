@@ -1,0 +1,43 @@
+h1{
+    text-align: center;
+    color: black;
+    
+}
+
+table {
+    text-align: center;
+    background-color: cornflowerblue;
+    color: blue;
+    width: 100%;
+    table-layout: inherit;
+}
+
+table,td{
+    border-collapse: collapse;
+    border: 5px solid;
+    border-style: solid;
+    padding: 4px 8px;
+    text-decoration: none;
+    font-family: monospace;
+    color: black;
+    border-color: black;
+    font-size: 1.3em;
+}
+
+a:hover {
+    padding: 4px 8px;
+    text-decoration: none;
+    font-family: monospace;
+    color: aqua;
+}
+
+a{
+    padding: 4px 8px;
+    text-decoration: none;
+    font-family: monospace;
+    color: whitesmoke;
+}
+
+img{
+    width: 100px;
+}
